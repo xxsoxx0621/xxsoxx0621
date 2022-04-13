@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxsoxx0621&count_bg=%230087D9&title_bg=%23DCE8FF&icon=googledrive.svg&icon_color=%2301A5FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxsoxx0621&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxsoxx0621&theme=default&show_icons=true)
 <!--
 **xxsoxx0621/xxsoxx0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
