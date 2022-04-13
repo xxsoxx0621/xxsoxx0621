@@ -1,4 +1,5 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxsoxx0621&count_bg=%230087D9&title_bg=%23DCE8FF&icon=googledrive.svg&icon_color=%2301A5FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -6,7 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxsoxx0621&layout=compact)](https://github.com/xxsoxx0621/github-readme-stats)
 
-출처: https://yoon990.tistory.com/38 [개발저장소]
 <!--
 **xxsoxx0621/xxsoxx0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
