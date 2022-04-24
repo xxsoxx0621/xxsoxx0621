@@ -38,20 +38,6 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<div align="center">
-  
-  <div align="left">
-    
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxsoxx0621&theme=default&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxsoxx0621&layout=compact)](https://github.com/xxsoxx0621/github-readme-stats)
-  
-  </div>
-    
-
-
-
-</div>
 <!--
 **xxsoxx0621/xxsoxx0621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
